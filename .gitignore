@@ -1,0 +1,8 @@
+# Godot 4 local/import cache — regenerate with the editor or headless --import
+.godot/
+*.translation
+
+# OS / editor noise
+.DS_Store
+*~
+*.swp
